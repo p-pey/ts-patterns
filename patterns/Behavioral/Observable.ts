@@ -33,7 +33,6 @@ class Observable<T> {
               }
        }
 }
-
 // Example usage
 const observable = new Observable<number>();
 
